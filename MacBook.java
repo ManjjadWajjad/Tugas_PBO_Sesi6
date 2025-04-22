@@ -4,7 +4,7 @@ public class MacBook implements Laptop {
 
     public void powerOn() {
         isOn = true;
-        System.out.println("MacBook: Starting up 🍎...");
+        System.out.println("MacBook: Starting up...");
     }
 
     public void powerOff() {
